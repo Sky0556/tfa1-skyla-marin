@@ -39,7 +39,7 @@ A simple multi-page Point of Sale website created using CodeIgniter 4. This proj
 
 ## Project Links
 
-- GitHub repository: To be added
+- GitHub repository: https://github.com/Sky0556/tfa1-skyla-marin
 - Live website: To be added
 
 ## Author
